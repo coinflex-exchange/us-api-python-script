@@ -1,2 +1,2 @@
 # api-python-script
-Python script for CoinFLEX API
+Python script for CoinFLEX US API
